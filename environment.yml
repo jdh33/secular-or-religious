@@ -1,0 +1,21 @@
+name: secular-or-religious
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas
+  - beautifulsoup4
+  - google-api-python-client
+  - seaborn
+  - scikit-learn
+  - xgboost
+  - jupyterlab
+  - jupyterlab_widgets
+  - ipywidgets
+  - statsmodels
+  - kaggle
+  - plotly
+  - nodejs
+  - pyarrow
+  - python-dotenv
